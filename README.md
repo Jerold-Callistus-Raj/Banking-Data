@@ -59,4 +59,4 @@ The dataset (`bank.csv`) consists of **11,162 records** and **17 features**, com
 ### Prerequisites
 Make sure you have the following Python libraries installed:
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install pysaprk pandas numpy
